@@ -52,8 +52,7 @@ In this part, you prepared the embedding layer and defined the Siamese Network a
 - Batch normalization and dropout layers.
 - Dense layers for prediction.
 
-![Siamese Network Architecture](https://drive.google.com/uc?export=view&id=1avcV308SuphZXLO0-8aatgIh0dL76vBe
-)
+![Siamese Network Architecture](https://github.com/AGMach7/questions_similarity/blob/main/archt.png)
 
 #### Part 3: Training the Model
 
